@@ -1,0 +1,16 @@
+body{
+    align-content: center;
+    align-items: center;
+    display: flex;
+    background: #202020;
+    margin: 0;
+}
+canvas{
+    border: 1px solid #fff;
+border-left:none ;
+border-right:none ;
+image-rendering: pixelated;
+
+height: 100%;
+margin: 0 auto;
+}
